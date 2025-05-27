@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://David-Okeyo-s-workspace-vdm7f1.us-east-1.xata.sh/db/loop_db",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
